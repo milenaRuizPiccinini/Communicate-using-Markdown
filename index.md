@@ -8,3 +8,7 @@ git status
 git add
 git commit
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
